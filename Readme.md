@@ -8,4 +8,4 @@ There are two ways you can follow along with the materials:
     - extract the files, start Jupyter Notebook.
     - click Upload at the top right, navigate to the Python_101.ipynb file, then click upload again.
     - to Run a cell, click the Run button at the top, or Ctrl + Enter
-- **relaxed approach**: follow along the slides at https://github.com/gavindonna/Python101/, view the Python_101.ipynb file 
+- **relaxed approach**: follow along with the Jupyter Notebook at https://github.com/gavindonna/Python101/, view the Python_101.ipynb file 
